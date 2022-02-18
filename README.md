@@ -1,4 +1,4 @@
-# OE-Changed-Files-List
+# Changed-Files-List
 This is a Progress OpenEdge program that will create a list of files that have been changed since a specified date. The program has the following fields:
 
 Directory: The directory to search.
